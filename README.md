@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.com/manodeep/TAO-Filters.svg?branch=master)](https://travis-ci.com/manodeep/TAO-Filters)
+
 WARNING
 =======
 
-**DO NOT USE. SOME FILTERS HAVE WRONG DATA**
+**DO NOT USE UNTIL TESTS PASS. SOME FILTERS HAVE NON-COMPLIANT DATA**
 
 
 TAO-Filters
