@@ -6,7 +6,7 @@ reset=`tput sgr0`
 list_of_filters_and_md5="filters_and_md5sum.txt"
 tmpfile="junk.txt"
 find . -type f \( -iname \*.dat -o -iname \*.dati \) -exec md5sum {} \; | sort -k2 > "$tmpfile"
-diff -q "$list_of_filters_and_md5" "$tmpfile"
+diff -q  --ignore-space-change "$list_of_filters_and_md5" "$tmpfile"
 status=$?
 if [ $status -ne 0 ]; then
     echo "List of filter datafiles does not agree with the expected list in '$list_of_filters_and_md5'"
