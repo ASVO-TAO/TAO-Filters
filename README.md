@@ -11,6 +11,7 @@ Tests
 ------
 
 - Only files with extensions ``*.dat`` or ``*.dati`` are checked
+- The list of files returned by ``find`` and the corresponding ``md5sum``  must match the contents of [filters_and_md5sum.txt](filters_and_md5sum.txt)
 - The first line of the file contains the number of lines (only one column)
 - The content of the first line should be the total number of lines of filter data (i.e., exclude the header line itself)
 - The second line of the file onwards contain two columns, first for wavelength
