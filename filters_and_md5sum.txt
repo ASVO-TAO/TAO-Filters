@@ -17,8 +17,8 @@ e8d33414fd240b898097a845a2397f92  ./bandpass_filters/ACS/f850lp.WFC2.dati
 7d893d1629f1ae26e2c84b02a67c9019  ./bandpass_filters/CFHTLS/rMega.dati
 020b369824b7ce33f07a11bde07527ba  ./bandpass_filters/CFHTLS/uMega.dati
 97e037e17bffdd7c046624155c578fdb  ./bandpass_filters/CFHTLS/zMega.dati
-089509a3328ec312fd9def2826206165  ./bandpass_filters/CTIO/U.dati
 06a95e02d1537238fc01dc396996494c  ./bandpass_filters/CTIO/U_ctio_mosaic_tot.dati
+089509a3328ec312fd9def2826206165  ./bandpass_filters/CTIO/U.dati
 d6dc64c8192fa40d01d82ee11d57a8c7  ./bandpass_filters/DEEP/deep_B.dati
 b111a557c1aa953e283902a9b988f497  ./bandpass_filters/DEEP/deep_I.dati
 8f65cf51a2252d2e59bd7ef9adb44d3b  ./bandpass_filters/DEEP/deep_R.dati
@@ -58,8 +58,8 @@ ded7cd7a84b6f2e8e5ce99d0a034c00c  ./bandpass_filters/MUSYC/ecdfs.B.filt.dati
 a075e79bb71759b763daee1eb606f963  ./bandpass_filters/MUSYC/ecdfs.J.filt.dati
 52ae57fa0711eb78f6448bc0ed32869b  ./bandpass_filters/MUSYC/ecdfs.K.filt.dati
 94891e2c8ee0af462b473dc272a02c13  ./bandpass_filters/MUSYC/ecdfs.R.filt.dati
-4650c4359520f87ea9b973e966af6c20  ./bandpass_filters/MUSYC/ecdfs.U.filt.dati
 743c2552fde94071b69d651503cc4220  ./bandpass_filters/MUSYC/ecdfs.U38.filt.dati
+4650c4359520f87ea9b973e966af6c20  ./bandpass_filters/MUSYC/ecdfs.U.filt.dati
 8ddc0986098d90066c76ab0b45f9fd45  ./bandpass_filters/MUSYC/ecdfs.V.filt.dati
 45b6ee932924a8a0a86c43f201276b3a  ./bandpass_filters/MUSYC/ecdfs.z.filt.dati
 5313fe08716856ece201d12e74847994  ./bandpass_filters/NEWFIRM/newfirmH.dati
@@ -89,8 +89,8 @@ a72645e88c948ce1167bc6f1fe508265  ./bandpass_filters/SuprimeCAM/i.dati
 78bfa86b2b4b014659edea0b62f933fb  ./bandpass_filters/SuprimeCAM/i_subaru.dati
 c3e36550898a454293a645a3751f1290  ./bandpass_filters/SuprimeCAM/r.dati
 1be60fd4b02bdd5c1a760c515c0b183d  ./bandpass_filters/SuprimeCAM/r_subaru.dati
-1ae8bee6091688119dce126ad10bb88e  ./bandpass_filters/SuprimeCAM/z_subaru.dati
 7c652c9d307fa52e9ec98f28e7ccc6f1  ./bandpass_filters/SuprimeCAM/z_subaru_2004.2008.dati
+1ae8bee6091688119dce126ad10bb88e  ./bandpass_filters/SuprimeCAM/z_subaru.dati
 5c111792d51dfab0eca8f813e8679b16  ./bandpass_filters/TOPHAT/UV1500top.dati
 6ad36f586d2fe4d51d520ced5ef5a5f6  ./bandpass_filters/TOPHAT/UV2300top.dati
 76df572635dda4bb3e7161a97130a368  ./bandpass_filters/TOPHAT/UV2800top.dati
