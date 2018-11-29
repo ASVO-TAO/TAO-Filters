@@ -12,6 +12,7 @@ if [ $status -ne 0 ]; then
     echo "List of filter datafiles does not agree with the expected list in '$list_of_filters_and_md5'"
     echo "Did you add a new filter or update any of the filter data in existing files?"
     diff "$list_of_filters_and_md5" "$tmpfile"
+    cat "$tmpfile"
     exit $status
 fi
 
