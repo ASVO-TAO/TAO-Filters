@@ -3,6 +3,17 @@
 red=`tput setaf 1`
 green=`tput setaf 2`
 reset=`tput sgr0`
+list_of_filters_and_md5="filters_and_md5sum.txt"
+tmpfile="junk.txt"
+find . -type f \( -iname \*.dat -o -iname \*.dati \) -exec md5sum {} \; > "$tmpfile"
+diff -q "$list_of_filters_and_md5" "$tmpfile"
+status=$?
+if [ $status -ne 0 ]; then
+    echo "List of filter datafiles does not agree with the expected list in '$list_of_filters_and_md5'"
+    echo "Did you add a new filter or update any of the filter data in existing files?"
+    exit $status
+fi
+
 find . -type f \( -iname \*.dat -o -iname \*.dati \) -print0 | while read -d $'\0' file
 do                                                                    
     awk '{if(NR==1 && NF != 1) {print("\nFirst line should contain only the total number of lines in the filter file"); print ARGV[1], NR, $0; exit 1;}}' $file
