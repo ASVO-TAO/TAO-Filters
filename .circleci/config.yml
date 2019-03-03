@@ -2,9 +2,6 @@ version: 2
 jobs:
   build:
    machine: true
-
-    working_directory: /home/circleci/tao
-
     steps:
       - checkout
       - run: /bin/bash ./tests.sh
