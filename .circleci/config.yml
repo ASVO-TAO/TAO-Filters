@@ -1,0 +1,9 @@
+version: 2
+jobs:
+  build:
+
+    working_directory: /home/circleci/tao
+
+    steps:
+      - checkout
+      - run: /bin/bash ./tests.sh
