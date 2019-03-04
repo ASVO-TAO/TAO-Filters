@@ -1,4 +1,4 @@
-a075e79bb71759b763daee1eb606f964  ./bandpass_filters/MUSYC/ecdfs.J.filt.dati
+a075e79bb71759b763daee1eb606f963  ./bandpass_filters/MUSYC/ecdfs.J.filt.dati
 a169b601efe0f82839256aebbe659639  ./bandpass_filters/Hawk-I/HawkI_Jband.dati
 a339134692d06fa284c9e1765603d82a  ./bandpass_filters/k.dat
 a51e92f0375780511ff68e607f3b678e  ./bandpass_filters/IRAC/irac_3.4.dati
