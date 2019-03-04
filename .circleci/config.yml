@@ -1,7 +1,8 @@
 version: 2
 jobs:
   build:
-   machine: true
+    machine: true
+
     steps:
       - checkout
       - run: /bin/bash ./tests.sh
