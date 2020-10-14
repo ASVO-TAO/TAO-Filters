@@ -129,3 +129,15 @@ ffca117288847702989b7677fe67e1c8  ./bandpass_filters/skymapper/SkyMapper_v.dati
 3e637316bed813220eb1836cda36da3f  ./bandpass_filters/skymapper/SkyMapper_i.dati
 50091e9996ced5fd7d7e4eac7cbea024  ./bandpass_filters/2MASS/Ksband_2mass.dati
 9147e30352d4552ac43d6a2fb46a2d32  ./bandpass_filters/SuprimeCAM/g.dati
+70770f8bb3913647adb0d743c24955ae ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F140M.dat
+a96cc7f33adf7575c8e690ab873ac2d9 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F480M.dat
+a16dbbb178c424d2065bb7bb26b03387 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F115W.dat
+1ce83883a5184442b8b690fb5bc8bcc4 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F277W.dat
+25bccea4b6a4b74e1be433c9853ecf33 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F200W.dat
+23895f6a636b3ff91c0307985a3424e6 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F444W.dat
+f1adfde1806e5258519cb28d484e6e30 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F430M.dat
+fd8bcf79761087bbdac48dd2bd6f57b4 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F150W.dat
+56a84cfbeca9958be5b7eb8f4cf34740 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F158M.dat
+5f9bdf3b71de0e67070b6a98242e4f87 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F090W.dat
+56bb460db0cb63b8a9b4313a0fd8264a ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F356W.dat
+226613034bdbaf010a8c8fb85f6dd620 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F380M.dat
