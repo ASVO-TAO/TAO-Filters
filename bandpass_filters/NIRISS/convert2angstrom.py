@@ -7,7 +7,6 @@ def main():
 
    if len(sys.argv) >= 2:
      name = sys.argv[1]
-     total = 0
      try:
         with open(name, 'r') as f:
            Lines = f.readlines() 
@@ -17,12 +16,9 @@ def main():
                   as_micron = float(tokens[0])
                   as_angstrom = as_micron*10000.0
                   transmission = float(tokens[1])
-                  total += transmission
      except:
         print("could not open")
      try:
-        normalise = total
-        total = 0
         with open(name, 'r') as f:
            Lines = f.readlines() 
            for line in Lines: 
@@ -31,8 +27,6 @@ def main():
                   as_micron = float(tokens[0])
                   as_angstrom = as_micron*10000.0
                   transmission = float(tokens[1])
-                  transmission /= normalise
-                  total += transmission
                   print("{0:5.0f} {1:12.10f}".format(as_angstrom,transmission))
               else:
                   print(line.strip())
