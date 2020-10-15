@@ -138,3 +138,15 @@ a54e03abd051790a8144238beed03370  ./bandpass_filters/WISE/WISE2.dat
 31486685150fc14cc33de504e95bfbe9  ./bandpass_filters/DECam/DECam_i.dat
 348635bf1d36466456c62a9a56eeaacd  ./bandpass_filters/DECam/DECam_r.dat
 41d5484a7b6b69fc6a8d62a467d213e6  ./bandpass_filters/DECam/DECam_u.dat
+70770f8bb3913647adb0d743c24955ae ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F140M.dat
+a96cc7f33adf7575c8e690ab873ac2d9 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F480M.dat
+a16dbbb178c424d2065bb7bb26b03387 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F115W.dat
+1ce83883a5184442b8b690fb5bc8bcc4 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F277W.dat
+25bccea4b6a4b74e1be433c9853ecf33 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F200W.dat
+23895f6a636b3ff91c0307985a3424e6 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F444W.dat
+f1adfde1806e5258519cb28d484e6e30 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F430M.dat
+fd8bcf79761087bbdac48dd2bd6f57b4 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F150W.dat
+56a84cfbeca9958be5b7eb8f4cf34740 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F158M.dat
+5f9bdf3b71de0e67070b6a98242e4f87 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F090W.dat
+56bb460db0cb63b8a9b4313a0fd8264a ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F356W.dat
+226613034bdbaf010a8c8fb85f6dd620 ./bandpass_filters/NIRISS/DATA_1e-3/NIRISS_F380M.dat
