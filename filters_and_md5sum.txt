@@ -129,3 +129,12 @@ ffca117288847702989b7677fe67e1c8  ./bandpass_filters/skymapper/SkyMapper_v.dati
 3e637316bed813220eb1836cda36da3f  ./bandpass_filters/skymapper/SkyMapper_i.dati
 50091e9996ced5fd7d7e4eac7cbea024  ./bandpass_filters/2MASS/Ksband_2mass.dati
 9147e30352d4552ac43d6a2fb46a2d32  ./bandpass_filters/SuprimeCAM/g.dati
+d675120f06baf32437cecab99d80abe5  ./bandpass_filters/WISE/WISE1.dat
+29c1b6de2e58c9e805517c84685505b3  ./bandpass_filters/DECam/DECam_z.dat
+16349f7ed295b674a4036ef68e1ef229  ./bandpass_filters/WISE/WISE4.dat
+a2aa920615ea6f5334d3359657f65aed  ./bandpass_filters/WISE/WISE3.dat
+a54e03abd051790a8144238beed03370  ./bandpass_filters/WISE/WISE2.dat
+9d4b314775146761ad7333df27aa0765  ./bandpass_filters/DECam/DECam_g.dat
+31486685150fc14cc33de504e95bfbe9  ./bandpass_filters/DECam/DECam_i.dat
+348635bf1d36466456c62a9a56eeaacd  ./bandpass_filters/DECam/DECam_r.dat
+41d5484a7b6b69fc6a8d62a467d213e6  ./bandpass_filters/DECam/DECam_u.dat
